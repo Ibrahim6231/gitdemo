@@ -1,0 +1,2 @@
+Hi this is my first ever repository, created in gitbash terminal.
+now need to push it on github    
